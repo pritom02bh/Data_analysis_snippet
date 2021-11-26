@@ -13,3 +13,7 @@ Python Data Cleaning |  Data Preparation | Visualization
      conda config --add channels conda-forge
      conda config --set channel_priority strict
      
+  Installing Packages
+     
+     conda install pandas scikit-learn matplotlib notebook statsmodels openpyxl xlrd
+     
