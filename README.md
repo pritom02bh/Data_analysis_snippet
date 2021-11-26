@@ -6,3 +6,4 @@ Python Data Cleaning |  Data Preparation | Visualization
 
 
      conda create --name ds_env1
+     conda activate ds_env1
