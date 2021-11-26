@@ -5,5 +5,9 @@ Python Data Cleaning |  Data Preparation | Visualization
 ## Creating Environment
 
 
-     conda create --name ds_env1
+     conda create --name da_env
      conda activate ds_env1
+     
+  Setting Up Channels
+     
+     conda config --add channels conda-forge
